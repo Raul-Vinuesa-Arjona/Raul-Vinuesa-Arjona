@@ -5,8 +5,7 @@
 🎓 Certificaciones:
 - En vigor: PL-300 Power BI Data Analyst Associate, DP-600 Fabric Analytics Engineer Associate, PL-900 Power Platform Fundamentals, DP-900 Azure Data Fundamentals
 - Retiradas: DP-500 Azure Enterprise Data Analyst Associate, DP-203 Azure Data Engineer Associate"
-
-Me apasiona transformar datos en soluciones reales de negocio, integrando analítica, automatización y cloud.
+💖 Me apasiona transformar datos en soluciones reales de negocio, integrando analítica, automatización y cloud.
 
 ---
 
@@ -24,10 +23,32 @@ Me apasiona transformar datos en soluciones reales de negocio, integrando analí
 
 ---
 
+## 🏭 Experiencia en sectores
+- Banca
+- Telecomunicaciones
+- Belleza y cosmética
+- Energético
+- Pharma
+- Finanzas
+- Construcción
+- Química
+- Pinturas
+- E-commerce
+- Retail
+- Mueble
+- Textil
+
+---
+
+## 🫂 Comunidad
+- Fundador y co-líder del grupo de usuarios de Power BI en Albacete 
+
+---
 ## 🌍 Contacto
 - 💼 [LinkedIn](https://www.linkedin.com/in/raulvinuesaarjona/)
 - 🧰 [GitHub](https://github.com/Raul-Vinuesa-Arjona)
 - ✉️ raulvinuesa@gmail.com
 
-## 🏀 Hobbies
-- Baloncesto
+## 🏀 Más personal
+- Fui jugador de baloncesto amateur en Castilla-La Mancha y me encanta el deporte
+- Fui padre pasados los 40 😩

@@ -20,7 +20,9 @@
 - **Microsoft Fabric** (Lakehouse, Dataflows, Notebooks)
 - **Power Automate** y orquestación de procesos
 - **Conocimiento de negocio**
-
+---
+## ⚙️ Tecnologías con las que estoy trabajando o en las que me estoy formando
+- **Power BI, Fabric, Power Automate, SQL, Python, IA generativa, IA agentiva, GitHub, Notebooks**
 ---
 
 ## 🏭 Experiencia en sectores

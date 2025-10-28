@@ -43,6 +43,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/raulvinuesaarjona/)
 - 🧰 [GitHub](https://github.com/Raul-Vinuesa-Arjona)
 - ✉️ raulvinuesa@gmail.com
+- 🎤 https://sessionize.com/raul-vinuesa-arjona/
 
 ## 🏀 Más personal
 - Fui jugador de baloncesto amateur en Castilla-La Mancha y me encanta el deporte

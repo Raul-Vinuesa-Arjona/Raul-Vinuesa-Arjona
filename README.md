@@ -46,5 +46,6 @@
 - 🎤 https://sessionize.com/raul-vinuesa-arjona/
 
 ## 🏀 Más personal
-- Fui jugador de baloncesto amateur en Castilla-La Mancha y me encanta el deporte
+- Fui jugador de baloncesto amateur en ligas regionales de Castilla-La Mancha hasta que me dió por correr 🏃‍♂️‍➡️
+- Ahora combino el trote cochinero con entrenamientos de fuerza en mi gimnasio casero 🏋️‍♂️
 - Fui padre pasados los 40 😩

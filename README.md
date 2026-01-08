@@ -14,6 +14,8 @@
 
 ## 🧠 Habilidades técnicas
 - **Power BI** (modelado, DAX, Power Query, Deployment Pipelines)
+- **VS Code y GitHub** (trabajo colaborativo con Power BI)
+- **Agentic AI. MCPs**
 - **Microsoft Fabric** (Lakehouse, Dataflows, Notebooks)
 - **Power Automate** y orquestación de procesos
 - **Conocimiento de negocio**

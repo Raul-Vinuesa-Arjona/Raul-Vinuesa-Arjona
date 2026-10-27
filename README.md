@@ -37,6 +37,8 @@
 - Retail
 - Mueble
 - Textil
+- Seguros
+- Administración pública
 
 ## 🫂 Comunidad
 - Fundador y co-líder del grupo de usuarios de Power BI en Albacete. Organizamos eventos para la comunidad técnica de Power BI y Fabric en Albacete originalmente, y desde este año con la idea loca 🤯 de hacer un evento anual en una localidad castellano-manchega diferente, con el lema #techEnElPueblo

@@ -1,7 +1,7 @@
 # 👋 Hola, soy Raúl Vinuesa Arjona
 
 💼 **Senior Consultant Data Engineering | BI Team Lead | Power BI Champion**  
-📊 Especialista en analítica de datos, Power BI y dando mis primeros pasos en Microsoft Fabric.  
+📊 Especialista en analítica de datos, Power BI y, poco a poco, en Microsoft Fabric.  
 🎓 Certificaciones:
 - En vigor: PL-300 Power BI Data Analyst Associate, DP-600 Fabric Analytics Engineer Associate, DP-700 Fabric Data Engineer Associate, PL-900 Power Platform Fundamentals, DP-900 Azure Data Fundamentals
 - Retiradas: DP-500 Azure Enterprise Data Analyst Associate, DP-203 Azure Data Engineer Associate
@@ -53,6 +53,7 @@
   - Desde 2025, con la idea loca 🤯 de hacer un evento anual en una localidad castellano-manchega diferente, con el lema **#techEnElPueblo**:
     - 2025: Caudete
     - 2026: Madridejos
+    - 2027: Próximanente
 - Speaker en eventos de la comunidad técnica
 
 ## 🌍 Contacto

@@ -66,7 +66,7 @@
   - Desde 2025, con la idea loca 🤯 de hacer un evento anual en una localidad castellano-manchega diferente, con el lema **#techEnElPueblo**:
     - 2025: Caudete
     - 2026: Madridejos
-    - 2027: Próximanente
+    - 2027: Próximamente
 - Speaker en eventos de la comunidad técnica
 
 **Insignias de comunidad**

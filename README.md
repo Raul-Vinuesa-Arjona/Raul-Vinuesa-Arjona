@@ -2,7 +2,7 @@
 
 💼 **Associate Manager | BI Team Lead | Power BI Champion en Avanade Iberia**  
 📊 Especialista en analítica de datos, Power BI y, poco a poco, en Microsoft Fabric.  
-💖 Me apasiona transformar datos en soluciones reales de negocio, integrando analítica, automatización y cloud.
+💖 Me apasiona transformar datos en soluciones reales de negocio, integrando analítica, automatización, gobernanza y cloud.
 
 ## 🎓 Certificaciones
 

@@ -23,10 +23,9 @@
 <table>
   <tr>
     <td align="center" width="80"><a href="https://www.credly.com/badges/c3f79e73-4ba8-41c6-8601-20b28d533bf9/public_url"><img src="https://images.credly.com/images/3f35db4f-41b9-4125-8b89-b5ccc5beb4b8/image.png" width="50" alt="DP-500 Azure Enterprise Data Analyst Associate" title="DP-500 Azure Enterprise Data Analyst Associate"/></a><br/><sub>DP-500</sub></td>
+    <td align="center" width="80"><a href="https://learn.microsoft.com/api/credentials/share/es-es/RalVinuesaArjona-0118/C3BF21C0D00190A?sharingId=66E423CE55D5B1B2"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="50" alt="DP-203 Azure Data Engineer Associate" title="DP-203 Azure Data Engineer Associate"/></a><br/><sub>DP-203</sub></td>
   </tr>
 </table>
-
-- DP-203 Azure Data Engineer Associate
 
 ## 🚀 Proyectos destacados
 
